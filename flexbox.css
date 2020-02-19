@@ -46,7 +46,13 @@
     text-align: center;
     display: flex;
     flex-direction: column;
+    flex-grow: 2;
 }
+.videoSobre-sobre-list{
+    flex-grow: 1;
+}
+
+
 /*FOOTER*/
 
 .rodapePrincipal-patrocinadores .container {
@@ -71,3 +77,4 @@
 .rodapePrincipal-contatoForm-fieldset{
     display: flex;
 }
+
