@@ -39,6 +39,14 @@
     margin-left: 0;    
 }
 
+.videoSobre .container{
+    display: flex;
+}
+.videoSobre-sobre {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
 /*FOOTER*/
 
 .rodapePrincipal-patrocinadores .container {
